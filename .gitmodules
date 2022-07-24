@@ -1,0 +1,3 @@
+[submodule "TM4C123_Programming"]
+	path = TM4C123_Programming
+	url = https://github.com/gsomani/TM4C123_Programming
